@@ -1,0 +1,13 @@
+0   hi
+0   hello
+0   greetings
+0   great
+0   good morning
+0   good day
+1   bye
+1   have nice day
+1   see you
+2   i want a room
+2   need a room
+2   give me a room
+2   want room
